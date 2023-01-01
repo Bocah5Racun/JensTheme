@@ -1,6 +1,6 @@
 <?php
 
-require_once('JensThemeOJSPlugin.inc.php');
-return new JensThemeOJSPlugin();
+require_once('JensThemePlugin.inc.php');
+return new JensThemePlugin();
 
 ?>
